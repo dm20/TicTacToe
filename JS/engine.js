@@ -1,13 +1,13 @@
 /* *********************************/
 /* CHANGE THE STARTING MARKER STYLE
-/* 			.__.							 
-/* 		  |	 |							 
-/* 		  |	 |		
-/* 	 .__|	 |__.							 
-/*		\		   /
-/*		 \	 	/
+/*      .__.               
+/*      |  |               
+/*      |  |    
+/*   .__|  |__.              
+/*    \      /
+/*     \    /
 /*      \  /
-/*			 \/
+/*       \/
 */
 
 var markerStyle = "exxe";
@@ -73,8 +73,8 @@ var drawSymbol = function(e, markerStyle) {
     }
   }
   if (player1.moves.length + player2.moves.length == 9) {
-  	sleep(2000);
-  	resetGame();
+    sleep(2000);
+    resetGame();
     resetGame();
   }
 }
