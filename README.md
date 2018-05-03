@@ -1,2 +1,2 @@
 # Tic Tac Toe
-## Try running in JSFiddle
+## Try running in JSFiddle, or whatever
